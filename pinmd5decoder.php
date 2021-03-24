@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <head>
-  <title>Ankit Shukla</title>
+  <title>MD5 Pin Decoder</title>
 </head>
 <body style="font-family: sans-serif">
-<h1>MD5 cracker</h1>
-<p>This application takes an MD5 hash of a four digit pin and check all 10,000 possible four digit PINs to determine the PIN.</p>
+<h1>MD5 Deccoder</h1>
+<p>This application takes an MD5 hash of a four digit pin and check all possible four digit PINs to determine the PIN.</p>
 <pre>
 Output:
 <?php
